@@ -14,10 +14,10 @@ Cleaned raw data, created pivot tables, charts and an interactive dashboard to v
 - Highest selling category.
 
 ## 📈 Key Insights
-- Women (age 30–49) purchase the most.  
-- Maharashtra, Karnataka & Uttar Pradesh lead in sales.  
-- Amazon, Flipkart & Myntra are top sales channels.  
-- Targeting women (30–49 yrs) through top channels can increase revenue.
+- Women are more likely to buy compared to men(≈65%).							
+- Maharashtra, Karnataka and Uttar Pradesh are the top 3 states(≈35%).							
+- Adult age group (30-49 yrs) is max contributing(≈50%).							
+- Amazon, Flipkart and Myntra channels are max contributing(≈80%).							
 
 ## 🧮 Tools & Techniques
 - Microsoft Excel (Pivot Tables, Charts, Slicers)  

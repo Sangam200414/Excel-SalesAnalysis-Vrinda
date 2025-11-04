@@ -25,7 +25,7 @@ Cleaned raw data, created pivot tables, charts and an interactive dashboard to v
 - Interactive dashboard creation
 
 ## 🖼️ Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 👤 Author
 **Sangam Maurya**  

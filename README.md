@@ -26,4 +26,4 @@ Cleaned raw data, created pivot tables, charts and an interactive dashboard to v
 
 ## 👤 Author
 **Sangam Maurya**  
-📂 [GitHub Repository Link](https://github.com/Sangam200414/Vrinda-Store-Data-Analysis)
+📂 [GitHub Repository Link](https://github.com/Sangam200414/Excel-SalesAnalysis-Vrinda)

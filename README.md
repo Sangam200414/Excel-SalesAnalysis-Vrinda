@@ -22,7 +22,10 @@ Cleaned raw data, created pivot tables, charts and an interactive dashboard to v
 ## 🧮 Tools & Techniques
 - Microsoft Excel (Pivot Tables, Charts, Slicers)  
 - Data cleaning & transformation  
-- Interactive dashboard creation  
+- Interactive dashboard creation
+
+## 🖼️ Dashboard Preview
+![Dashboard](dashboard.png)
 
 ## 👤 Author
 **Sangam Maurya**  
